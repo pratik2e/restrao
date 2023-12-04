@@ -1,0 +1,15 @@
+{
+    "restaurants": [
+      {
+        "name": "Pizza Palace",
+        "id": 1,
+        "rating": 4.5,
+        "location": {
+          "address": "123 Main Street",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "98765"
+        }
+      }
+    ]
+}
