@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Restaurant 1",
+    "id": 1,
+    "rating": 4.5,
+    "location": "City A"
+  },
+  {
+    "name": "Restaurant 2",
+    "id": 2,
+    "rating": 4.0,
+    "location": "City B"
+  }
+]

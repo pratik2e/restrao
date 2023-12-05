@@ -1,0 +1,22 @@
+[
+  {
+    "image": "/code.jpg",
+    "description": "Delicious pizza topped with fresh vegetables and cheese.",
+    "rating": 4.5
+  },
+  {
+    "image": "/code.jpg",
+    "description": "Creamy pasta with flavorful sauce and herbs.",
+    "rating": 4.2
+  },
+  {
+    "image": "/code.jpg",
+    "description": "Juicy burger with crispy fries on the side.",
+    "rating": 4.8
+  },
+  {
+    "image": "/code.jpg",
+    "description": "Juicy burger with having some raw baccons in night.",
+    "rating": 4.22
+  }
+]
